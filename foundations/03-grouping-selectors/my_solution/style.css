@@ -1,0 +1,16 @@
+#clickme {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#noclickme {
+    background-color: #ffff00;
+    color: black;
+    border: 1px solid black;
+}
+
+#clickme, #noclickme {
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif
+}
